@@ -1,0 +1,12 @@
+.container-pages-cart{
+    width: 90vw;
+    margin: auto;
+    margin-top: 5rem;
+}
+
+.product-cart-buy{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}

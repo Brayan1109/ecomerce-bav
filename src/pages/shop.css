@@ -1,0 +1,26 @@
+.container-pages-shop{
+    width: 90%;
+    margin: auto;
+    font-family: cursive;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.container-list-category button{
+    border: none;
+    width: 80px;
+    background-color: white;
+    cursor: pointer; 
+}
+
+
+.container-list-card-product{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2rem;
+    text-align: center;
+}
+
+
